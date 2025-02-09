@@ -1,4 +1,6 @@
-## Hi there 👋
+## SF to NY 🌲
+
+I'm currently learning Web Development (Front-End and Back-End)
 
 <!--
 **SFUnion/SFUnion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
